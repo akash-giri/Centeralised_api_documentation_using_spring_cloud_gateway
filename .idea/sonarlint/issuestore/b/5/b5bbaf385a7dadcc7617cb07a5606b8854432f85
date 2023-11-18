@@ -1,0 +1,9 @@
+
+e
+java:S2259!"IA "NullPointerException" could be thrown; "definitions" is nullable here.(пНг%8РЧРуј1
+G	java:S106"+Replace this use of System.out by a logger.(џЉыЊ8ХЧРуј1
+e
+java:S5361""HReplace this call to "replaceAll()" by a call to the "replace()" method.(ЌЫцч8ШЧРуј1
+s
+java:S1128
+"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(жлтТыяяяя8І‡Щсј1
